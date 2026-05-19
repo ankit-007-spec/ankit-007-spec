@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Ankit Giri] 👋
 
-<!--
-**ankit-007-spec/ankit-007-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student, Full-Stack Developer , Data Scientist passionate about building scalable web apps / open-source tools / AI models.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, Python, TypeScript, SQL
+- **Frameworks/Libraries:** React, Node.js, Next.js
+- **Databases & Tools:** PostgreSQL, MongoDB, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- 🔭 I’m currently working on **[Name of your main project]**
+- 🌱 I’m currently learning **[A technology or concept you're learning]**
+- 💬 Ask me about **[Topics you know well, e.g., CSS tricks, Python scripting]**
+
+### 📫 Connect with Me
+- 💼 LinkedIn: [Your Link]
+- 🌐 Portfolio: [Your Link]
+- 📧 Email: [Your Email]
