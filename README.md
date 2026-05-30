@@ -13,5 +13,5 @@ I'm a Student, Full-Stack Developer , Data Scientist passionate about building s
 - 💬 Ask me about **Python scripting, CSS Tricks, Resume Writing**
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: [](https://www.linkedin.com/in/ankit-007-giri)
+- 💼 LinkedIn: [Linked IN](https://www.linkedin.com/in/ankit-007-giri)
 - 📧 Email: <aggiri5634@gmail.com>
